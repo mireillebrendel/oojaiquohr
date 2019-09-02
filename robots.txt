@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aecheekohj.andresmarrugo.net/sitemap.xml
